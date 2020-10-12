@@ -2,9 +2,9 @@
 
 This is a Newsletter web app that uses Mailchimp API to signup users to my Newsletter
 ## Requirements
-Node 8
-Express
-Git
+*Node 8
+*Express
+*Git
 
 ## Running Locally
 
